@@ -1,4 +1,4 @@
-# Simple API of One Piece with Express, Sequelize, and mySQL
+# Simple API of One Piece Characters
 
 ## How to Use
 
